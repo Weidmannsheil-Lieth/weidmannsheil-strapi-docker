@@ -1,0 +1,1 @@
+# Weidmannsheil Strapi Docker
